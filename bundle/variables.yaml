@@ -1,0 +1,4 @@
+variables:
+- team: kchhan-test
+- admin-user: kchhan-admin
+- manager-user: kchhan
