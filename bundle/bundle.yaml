@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "kchhan-test-dev-controller"
+description: "CloudBees CI configuration bundle for the kchhan-test dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/kchhan-test/dev-controller"
+parent: "base"
